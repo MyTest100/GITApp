@@ -11,7 +11,8 @@ namespace GITApp
         static void Main(string[] args)
         {
             // This is test
-            // Update from GITHUB
+            // Update from GITHUB - feature 1
+            
         }
     }
 }
